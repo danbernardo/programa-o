@@ -12,3 +12,13 @@ if verificacao == '16':
     print("Acerto mizeravi!")
 else:
     print("Errado, tente outra vez!")
+    
+print("=====================")
+ 
+num1 = int(input("Coloque um número: "))
+num2 = int(input("Coloque outro número: "))
+calculo = (num1 + num2)
+
+print(f"A soma de ambos os números é: {calculo}")
+
+print("Hello World")
